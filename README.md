@@ -34,10 +34,10 @@ The following figure shows the quantitative evaluation results in terms of PSNR 
 
 ## Visual Comparisons
 
-### One-Stage Method
+### One-Stage Method(PSNR/SSIM)
 ![Visual Comparison 1](PPTimages/v.s._white.png)
 
-### Two-Stage Method
+### Two-Stage Method(PSNR/SSIM)
 ![Visual Comparison 2](PPTimages/v.s.2_white.png)
 
 These visual examples demonstrate that local pixel inpainting can preserve fine textures under strong localized noise, while global structure restoration ensures overall image coherence and tonal consistency.
